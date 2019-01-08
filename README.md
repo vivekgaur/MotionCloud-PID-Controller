@@ -1,5 +1,11 @@
 # IMUSensor
 
+####PID Controller
+proportional–integral–derivative controller : 
+-To receive the data from TinyArduino through Serial Interface
+-Plot the Accelerometer Data Using MatPLot.
+-Use the Basic PID algorithm to track the trajectory of the object
+-Data is currently very noisy, Need to work on Integral Part to improve the position we get from Accelerometer.
 
 #### Experiment with IMU Sensor 
 
